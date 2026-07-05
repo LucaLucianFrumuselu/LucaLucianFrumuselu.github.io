@@ -1,5 +1,7 @@
+---
 layout: default
 title: Luca-Lucian Frumuselu
+---
 
 # Luca-Lucian Frumuselu
 
