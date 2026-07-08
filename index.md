@@ -29,20 +29,20 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 **ASX 200 Macroeconomic Outlook** — *Independent Research, 2026*
 
-Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 May) and structured Bull/Base/Neutral scenarios with an index range of AUD$8,400–8,800. Flagged copper and gold miners as tactically overweight given BHP's 50% EBITDA copper exposure, and A-REITs as underweight following a 10% YTD index decline.
+- Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 May) and structured Bull/Base/Neutral scenarios with an index range of AUD$8,400–8,800. Flagged copper and gold miners as tactically overweight given BHP's 50% EBITDA copper exposure, and A-REITs as underweight following a 10% YTD index decline.
 
 [View Report (PDF) →](/ASX200_Macroeconomic_Outlook_2026.pdf)
 
 **FTSE 100 UK Outlook** — *Independent Research, 2026*
 
-Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases and uncertainty in the Middle-East.
+- Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases and uncertainty in the Middle-East.
 
 [View Report (PDF) →](/FTSE100_Macroeconomic_Outlook.pdf)
 
 **OMV AG — LBO / DCF Valuation Model** — *Independent Research, July 2026*
 - Built a fully linked 13-sheet LBO/DCF model on OMV AG (Vienna SE), covering income statement, balance sheet, PPE schedule, debt schedule, WACC (4.2% — live Vienna beta), DCF (Equity Value EUR 24.9B), FCFE, and LBO analysis (base 3% IRR, distressed 66% IRR at 3.0x entry)
 
-[Download Model (Excel) →](/OMV_LBO_DCF_Model.xlsx)
+[Download Model (Excel) →]([/OMV_LBO_DCF_Model.xlsx](https://docs.google.com/spreadsheets/d/1e3UpfGksZURYgorssUReBGHgZLZAeVyT/edit?usp=drive_link&ouid=108670153753426303443&rtpof=true&sd=true))
 
 ---
 
