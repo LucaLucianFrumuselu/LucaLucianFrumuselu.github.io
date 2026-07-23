@@ -25,7 +25,7 @@ Outside of finance, I train six days a week at the gym, follow global football c
 
 Investigated the performance dynamics of Macro and Event-Driven hedge fund strategies across three macroeconomic regimes (Expansion, Transitional, Crisis) spanning January 2018 to December 2025. Using HFRI index data, OLS regression, and Markov Chain transition matrices, I identified Event-Driven strategies as crisis-resilient (Sharpe 1.09 vs. -0.22 for Macro during Crisis regimes) and constructed an optimal 57/43 portfolio allocation achieving a Sharpe of 0.58.
 
-[View on SSRN →](your-ssrn-link-here)
+[View on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7057718)
 
 **ASX 200 Macroeconomic Outlook** — *Independent Research, 2026*
 
