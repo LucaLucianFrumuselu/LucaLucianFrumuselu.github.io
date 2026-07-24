@@ -5,7 +5,7 @@ title: Luca-Lucian Frumuselu
 
 # Luca-Lucian Frumuselu
 
-MSc Finance upcoming student at UCL | Asset Management & Hedge Fund Research | Bucharest → Lyon → Seoul → London → Sydney
+MSc Finance upcoming student at UCL | Asset Management & Hedge Fund Research | Bucharest → Lyon → Seoul → London → Sydney (soon)
 
 ---
 
@@ -35,9 +35,15 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 **FTSE 100 UK Outlook** — *Independent Research, 2026*
 
-- Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases and uncertainty in the Middle-East.
+- Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases and uncertainty in the Middle East.
 
 [View Report (PDF) →](/FTSE100_Macroeconomic_Outlook.pdf)
+
+**Romania M&A Market and Macro Outlook** — *Independent Research, 2026*
+
+- Analysed the macroeconomic environment of Romania during H1 2026, including its inflation rate, GDP growth, EUR/RON FX rate, and the ongoing political uncertainty, as well as the major dynamics across Romania's M&A market valued at EUR 5.28 billion, incorporating a fully probability-weighted forecast of EUR 6.95 billion end-of-year M&A value, and showing a CEE market maturity framework showing Romania's M&A-to-GDP ratio at 5.4%, the highest in the region.
+
+[View Report (PDF) →](/Romania_MA_Macroeconomic_Outlook_H1_2026.pdf)
 
 **OMV AG — LBO / DCF Valuation Model** — *Independent Research, July 2026*
 - Built a fully linked 13-sheet LBO/DCF model on OMV AG (Vienna SE), covering income statement, balance sheet, PPE schedule, debt schedule, WACC (4.2% — live Vienna beta), DCF (Equity Value EUR 24.9B), FCFE, and LBO analysis (base 3% IRR, distressed 66% IRR at 3.0x entry)
