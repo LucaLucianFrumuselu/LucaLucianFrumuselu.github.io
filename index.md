@@ -55,7 +55,7 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 - Analysed the financial statements of Macquarie Group Ltd. across the S&P ASX 200 between 2022 and 2026; built a modelled DCF structure to identify Terminal Value, Enterprise Value, Equity Value and DCF per share across three scenarios (Bull, Base, Bear) by combining sectorial analysis, divisional analysis, impact of FX mechanisms in the AUD, integrating the latest PMI Industrial data for China, and evaluating potential macroeconomic scenarios around the Reserve Bank of Australia.
 - Identified a BUY Target at a probability-weighted value of AUD 276 per share, with price target set at AUD 280 per share.
 
-[View Report (PDF) →](/Macquarie_Equity_Research.pdf)
+[View Report (PDF) →](/Macquarie_Equity_Report.pdf)
 
 ---
 
