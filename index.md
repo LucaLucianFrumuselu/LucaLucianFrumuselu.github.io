@@ -45,10 +45,17 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 [View Report (PDF) →](/Romania_MA_Macroeconomic_Outlook_H1_2026.pdf)
 
-**OMV AG — LBO / DCF Valuation Model** — *Independent Research, July 2026*
+**OMV AG — LBO / DCF Valuation Model** — *Independent Research, 2026*
 - Built a fully linked 13-sheet LBO/DCF model on OMV AG (Vienna SE), covering income statement, balance sheet, PPE schedule, debt schedule, WACC (4.2% — live Vienna beta), DCF (Equity Value EUR 24.9B), FCFE, and LBO analysis (base 3% IRR, distressed 66% IRR at 3.0x entry)
 
 [Download Model (Excel) →]([/OMV_LBO_DCF_Model.xlsx](https://docs.google.com/spreadsheets/d/1e3UpfGksZURYgorssUReBGHgZLZAeVyT/edit?usp=drive_link&ouid=108670153753426303443&rtpof=true&sd=true))
+
+**Equity Report - Macquarie Group Ltd. (MQG)** — *Independent Research, 2026*
+
+- Analysed the financial statements of Macquarie Group Ltd. across the S&P ASX 200 between 2022 and 2026; built a modelled DCF structure to identify Terminal Value, Enterprise Value, Equity Value and DCF per share across three scenarios (Bull, Base, Bear) by combining sectorial analysis, divisional analysis, impact of FX mechanisms in the AUD, integrating the latest PMI Industrial data for China, and evaluating potential macroeconomic scenarios around the Reserve Bank of Australia.
+- Identified a BUY Target at a probability-weighted value of AUD 276 per share, with price target set at AUD 280 per share.
+
+[View Report (PDF) →](/Romania_MA_Macroeconomic_Outlook_H1_2026.pdf)
 
 ---
 
