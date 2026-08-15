@@ -55,7 +55,7 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 - Analysed the financial statements of Macquarie Group Ltd. across the S&P ASX 200 between 2022 and 2026; built a modelled DCF structure to identify Terminal Value, Enterprise Value, Equity Value and DCF per share across three scenarios (Bull, Base, Bear) by combining sectorial analysis, divisional analysis, impact of FX mechanisms in the AUD, integrating the latest PMI Industrial data for China, and evaluating potential macroeconomic scenarios around the Reserve Bank of Australia.
 - Identified a BUY Target at a probability-weighted value of AUD 276 per share, with price target set at AUD 280 per share.
 
-[View Report (PDF) →](/Romania_MA_Macroeconomic_Outlook_H1_2026.pdf)
+[View Report (PDF) →](/Macquarie_Equity_Research.pdf)
 
 ---
 
@@ -92,14 +92,20 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 - Organised conferences with professionals from BNP Paribas Asset Management, CFA Korea, and London Business School, attracting 30+ participants
 - Co-founded the first international finance association at Sungkyunkwan University, comprising 15 members
 
+---
+
 ## Skills
 
 **Technical:** Financial Modelling, LBO, DCF, Portfolio Construction, Excel (Advanced), VBA, Python, C++
+
 **Certifications:** Bloomberg Finance Fundamentals, Bloomberg Market Concepts, Bloomberg Spreadsheet Analysis
+
 **Languages:** English (fluent — IELTS 8.0), Romanian (native), French (fluent), Italian and Korean (intermediate)
+
+---
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/luca-frumuselu-715177257/) · [GitHub](https://github.com/LucaLucianFrumuselu) · lucalucian.frumuselu@gmail.com · lucalucian.frumuselu@edu.em-lyon.com
+[LinkedIn](https://www.linkedin.com/in/luca-frumuselu-715177257/) · [GitHub](https://github.com/LucaLucianFrumuselu) · [lucalucian.frumuselu@gmail.com](mailto:lucalucian.frumuselu@gmail.com) · [lucalucian.frumuselu@edu.em-lyon.com](mailto:lucalucian.frumuselu@edu.em-lyon.com)
 
-Currently based in Seoul. Relocating to London by September 2026.
+Currently based in Romania. Relocating to London by September 2026.
