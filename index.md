@@ -5,13 +5,13 @@ title: Luca-Lucian Frumuselu
 
 # Luca-Lucian Frumuselu
 
-MSc Finance upcoming student at UCL | Asset Management & Hedge Fund Research | Bucharest → Lyon → Seoul → London → Sydney (soon)
+MSc Finance student at UCL | Asset Management & Hedge Fund Research | Bucharest → Lyon → Seoul → London → Sydney (soon)
 
 ---
 
 ## About
 
-My name is Luca-Lucian Frumuselu, and I am a 21-year-old Romanian finance professional who has just completed a dual degree in Global Business Administration at emlyon Business School and Sungkyunkwan University in Seoul, before starting my MSc in Finance programme at University College London in September 2026.
+My name is Luca-Lucian Frumuselu, and I am a 21-year-old Romanian finance professional and a recent graduate of the dual degree in Global Business Administration at emlyon Business School and Sungkyunkwan University in Seoul, before starting my MSc in Finance programme at University College London in September 2026.
 
 My work sits at the intersection of macroeconomic analysis and macro investment strategy by building financial models, forming structured and forward-looking market positions, and publishing independent research. I speak Romanian, French, English, Italian, and Korean, and I have lived and studied across three countries.
 
@@ -29,13 +29,15 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 **ASX 200 Macroeconomic Outlook** — *Independent Research, 2026*
 
-- Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 May) and structured Bull/Base/Neutral scenarios with an index range of AUD$8,400–8,800. Flagged copper and gold miners as tactically overweight given BHP's 50% EBITDA copper exposure, and A-REITs as underweight following a 10% YTD index decline.
+- Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 May) and structured Bull/Base/Neutral scenarios with an index range of AUD$8,400–8,800.
+- Flagged copper and gold miners as tactically overweight given BHP's 50% EBITDA copper exposure, and A-REITs as underweight following a 10% YTD index decline.
 
 [View Report (PDF) →](/ASX200_Macroeconomic_Outlook_2026.pdf)
 
 **FTSE 100 UK Outlook** — *Independent Research, 2026*
 
-- Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases and uncertainty in the Middle East.
+- Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework.
+- Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases and uncertainty in the Middle East.
 
 [View Report (PDF) →](/FTSE100_Macroeconomic_Outlook.pdf)
 
@@ -106,6 +108,6 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/luca-frumuselu-715177257/) · [GitHub](https://github.com/LucaLucianFrumuselu) · [lucalucian.frumuselu@gmail.com](mailto:lucalucian.frumuselu@gmail.com) · [lucalucian.frumuselu@edu.em-lyon.com](mailto:lucalucian.frumuselu@edu.em-lyon.com)
+[LinkedIn](https://www.linkedin.com/in/luca-frumuselu-715177257/) · [GitHub](https://github.com/LucaLucianFrumuselu) · [lucalucian.frumuselu@gmail.com](mailto:lucalucian.frumuselu@gmail.com) · [luca.frumuselu.26@ucl.ac.uk](mailto:luca.frumuselu.26@ucl.ac.uk)
 
 Currently based in Romania. Relocating to London by September 2026.
