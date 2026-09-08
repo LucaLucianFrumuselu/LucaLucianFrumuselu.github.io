@@ -41,7 +41,7 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 - Structured Bull/Base/Bear scenarios, with an index range of AUD$8,550-9,200 based on dynamics across government bond yields, commodity prices, evolution of the A-VIX, and external factors, including Chinese PMI and the conflict in the Middle East
 - Identified financials and real estate indexes as being the most pressured sectors, materials as the main swinging factor, and driven by external factors rather than internal data readings.
 
-[View Report (PDF) →](/3 Months On - Outlook on ASX 200.pdf)
+[View Report (PDF) →](/3-Months-On-Outlook-on-ASX-200.pdf)
 
 **FTSE 100 UK Outlook** — *Independent Research, 2026*
 
