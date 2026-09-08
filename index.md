@@ -29,10 +29,19 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 **ASX 200 Macroeconomic Outlook** — *Independent Research, 2026*
 
-- Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 May) and structured Bull/Base/Neutral scenarios with an index range of AUD$8,400–8,800.
+- Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 May) and structured Bull/Base/Bear scenarios with an index range of AUD$8,400–8,800.
 - Flagged copper and gold miners as tactically overweight given BHP's 50% EBITDA copper exposure, and A-REITs as underweight following a 10% YTD index decline.
 
 [View Report (PDF) →](/ASX200_Macroeconomic_Outlook_2026.pdf)
+
+**3-months - Outlook on ASX 200** — *Independent Research, 2026*
+
+- Previous report's central call of a hike at 4.35% by the RBA proved right, with the index proving more resilient, though, trading near 9,900 against a base-case of 8,800.
+- Forecasted the upcoming Reserve Bank of Australia's rate decision for 29 September.
+- Structured Bull/Base/Bear scenarios, with an index range of AUD$8,550-9,200 based on dynamics across government bond yields, commodity prices, evolution of the A-VIX, and external factors, including Chinese PMI and the conflict in the Middle East
+- Identified financials and real estate indexes as being the most pressured sectors, materials as the main swinging factor, and driven by external factors rather than internal data readings.
+
+[View Report (PDF) →](/3 Months On - Outlook on ASX 200.pdf)
 
 **FTSE 100 UK Outlook** — *Independent Research, 2026*
 
@@ -58,6 +67,7 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 - Identified a BUY Target at a probability-weighted value of AUD 276 per share, with price target set at AUD 280 per share.
 
 [View Report (PDF) →](/Macquarie_Equity_Report.pdf)
+
 
 ---
 
