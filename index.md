@@ -52,6 +52,14 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 [View Report (PDF) →](/FTSE100_Macroeconomic_Outlook.pdf)
 
+**Firmus IPO Failure Analysis** — *Independent Research, 2026*
+
+- Conducted a case study on the recent failure of Firmus (AI-infrastructure firm) in its IPO across the S&P ASX 200, with the firm withdrawing its public-listing process on October 9th.
+- Analysed and identified the main drivers of the failure based on publications across the Australian Financial Review, BBC, and The Guardian.
+- Formulated three variables defining the process, around the EBITDA, the overvaluation of the IPO, and the lack of credibility among buy-side firms.
+
+[View Report (PDF) →](/Firmus_IPO_Failure.pdf)
+
 **Romania M&A Market and Macro Outlook** — *Independent Research, 2026*
 
 - Analysed the macroeconomic environment of Romania during H1 2026, including its inflation rate, GDP growth, EUR/RON FX rate, and the ongoing political uncertainty, as well as the major dynamics across Romania's M&A market valued at EUR 5.28 billion, incorporating a fully probability-weighted forecast of EUR 6.95 billion end-of-year M&A value, and showing a CEE market maturity framework showing Romania's M&A-to-GDP ratio at 5.4%, the highest in the region.
