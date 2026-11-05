@@ -42,6 +42,7 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 - Forecasted the upcoming Reserve Bank of Australia's rate decision for 29 September = confirmed by the RBA's statement on 29th September at a unanimous level.
 - Structured Bull/Base/Bear scenarios, with an index range of AUD$8,550-9,200 based on dynamics across government bond yields, commodity prices, evolution of the A-VIX, and external factors, including Chinese PMI and the conflict in the Middle East
 - Identified financials and real estate indexes as being the most pressured sectors, materials as the main swinging factor, and driven by external factors rather than internal data readings.
+- Final result: predicted the RBA's potential hike on 3rd November at 4.85% through the evaluation of labour and macroeconomic data.
 
 [View Report (PDF) →](/3-Months-On-Outlook-on-ASX-200.pdf)
 
