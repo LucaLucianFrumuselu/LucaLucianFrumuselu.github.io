@@ -37,10 +37,9 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 [View Report (PDF) →](/ASX200_Macroeconomic_Outlook_2026.pdf)
 
 **3-months - Outlook on ASX 200** — *Independent Research, 2026*
-
-- Previous report's central call of a hike at 4.35% by the RBA proved right, with the index proving more resilient, though, trading near 9,900 against a base-case of 8,800.
-- Forecasted the upcoming Reserve Bank of Australia's rate decision for 29 September = confirmed by the RBA's statement on 29th September at a unanimous level.
-- Structured Bull/Base/Bear scenarios, with an index range of AUD$8,550-9,200 based on dynamics across government bond yields, commodity prices, evolution of the A-VIX, and external factors, including Chinese PMI and the conflict in the Middle East
+Tracked the RBA's 2026 tightening cycle in real time, evaluating the initial forecast during H1 2026 to the end of the year.
+- Forecasted the upcoming Reserve Bank of Australia's rate decision cycles, correctly anticipating a hike of 4.85%.
+- Structured Bull/Base/Bear scenarios, with an index range of AUD$8,550-9,200 based on dynamics across government bond yields, sticky inflation pressure on labour market, commodity prices, evolution of the A-VIX, and external factors, including Chinese PMI and the conflict in the Middle East
 - Identified financials and real estate indexes as being the most pressured sectors, materials as the main swinging factor, and driven by external factors rather than internal data readings.
 - Final result: predicted the RBA's potential hike on 3rd November at 4.85% through the evaluation of labour and macroeconomic data.
 
