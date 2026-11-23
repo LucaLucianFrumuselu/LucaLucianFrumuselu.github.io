@@ -21,6 +21,12 @@ Outside of finance, I train six days a week at the gym, follow global football c
 
 ---
 
+## CV
+
+[Link of CV →](/Luca_Frumuselu_CV.pdf)
+
+---
+
 ## Publications & Articles
 
 **Hedge Funds and Macroeconomic Resilience** — *Working Paper, SSRN, 2026*
